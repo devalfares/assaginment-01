@@ -369,9 +369,11 @@ body{
     
 }
 .your{
-    padding: 22px 250px ;
+    padding: 22px 20px ;
+    width: 600px;
     border-radius: 10px;
     border: 2px solid white;
+    text-align: start;
     
 }
 .Subscribe{
