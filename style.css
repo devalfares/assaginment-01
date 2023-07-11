@@ -1,6 +1,6 @@
 #bodyy{
     width: 100%;
-    height: 4100px;
+    height: 4380px;
 }
 
 
@@ -334,6 +334,7 @@ body{
 .img-layout-4{
     width: 100%;
     height: 100%;
+  
 }
 
 
@@ -343,11 +344,44 @@ body{
 /* Start main section-05 */
 
 .main-section-05{
-    width: 67%;
-    height: 360px;
+    width: 70%;
+    height: 445px;
     margin-top: 70px;
-    margin-left: 320px;
-    background-color: #E5D8D1;
+    margin-left: 300px;
+    background-color: yellow;
+    background-image: url('Flower Asset/Rectangle 9.png');
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+.Latest{
+    margin-left: 50px;
+    text-align: center;
+    padding-top: 120px;
+    font-size: 20px;
+    color: #272727;
+}
+.coupon{
+    color: #7C7677;
+}
+.Enter{
+    margin-left: 290px;
+    
+}
+.your{
+    padding: 22px 250px ;
+    border-radius: 10px;
+    border: 2px solid white;
+    
+}
+.Subscribe{
+    padding:20px 50px ;
+    border-radius: 10px;
+    border: 0;
+    background-color: #E65674;
+    margin-left: 10px;
+    color: white;
+    font-size: 20px;
 }
 
 
@@ -361,6 +395,7 @@ body{
     width: 100%;
     height: 350px;
     background-color: #111010;
+    margin-top: 150px;
 }
 .footerr-1{
     margin-left: 700px;
@@ -369,6 +404,7 @@ body{
     color: white;
     text-align: center;
     padding-top: 90px;
+   
 }
 .Flower{
     color: #E65674;
